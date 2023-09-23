@@ -1,2 +1,2 @@
 library(RPostgres)
-library(tidyverse) # First change conflict
+library(tidyverse) # First and second change conflict
